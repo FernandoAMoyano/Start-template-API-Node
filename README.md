@@ -7,6 +7,17 @@
 - dotenv
 - cors
 
+Este es un template básico para comenzar con una API en Node.js, Express y TypeScript.
+
+
+## Instalación
+
+1. Clona el repositorio.
+2. Ejecuta `npm install` para instalar las dependencias.
+3. Crea un archivo `.env` con las variables necesarias.
+4. Usa `npm run dev` para ejecutar el servidor.
+
+
 ## Dependencias
 ---
 
